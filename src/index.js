@@ -4,10 +4,7 @@ import './index.css'
 import { books } from './books'
 import Book from './book'
 import { hasFormSubmit } from '@testing-library/user-event/dist/utils'
-//function Greeting(){
-// return React.createElement('h2',{},"hello world")
 
-//}
 
 const names = ['john', 'peter', 'susan']
 const newnammws = names.map((name) => {
